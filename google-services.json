@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665665776968",
+    "project_id": "fir-auth-20955",
+    "storage_bucket": "fir-auth-20955.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665665776968:android:aec298310280068de6977d",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe1WHS_Fvfw_j5_QKoWB3tUB7Yl5RsiPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
